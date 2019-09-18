@@ -1,0 +1,19 @@
+body {
+    background-color: red;
+}
+
+h1, h2 {
+    font-family: 'Beth Ellen', cursive;
+}
+
+table, img, iframe {
+    border-color: black;
+    border-width: 8px;
+    border-style: solid;
+}
+
+tr, td, th, {
+    border-color: black;
+    border-width: 6px;
+    border-style: solid;
+}
